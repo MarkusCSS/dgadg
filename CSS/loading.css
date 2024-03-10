@@ -1,0 +1,540 @@
+@keyframes slider {
+  0% {
+    background: radial-gradient(circle, transparent 0%, rgb(111, 164, 189) 0%);
+  }
+  1% {
+    background: radial-gradient(circle, transparent 1%, rgb(111, 164, 189) 0%);
+  }
+  2% {
+    background: radial-gradient(circle, transparent 2%, rgb(111, 164, 189) 0%);
+  }
+  3% {
+    background: radial-gradient(circle, transparent 3%, rgb(111, 164, 189) 0%);
+  }
+  4% {
+    background: radial-gradient(circle, transparent 4%, rgb(111, 164, 189) 0%);
+  }
+  5% {
+    background: radial-gradient(circle, transparent 5%, rgb(111, 164, 189) 0%);
+  }
+  6% {
+    background: radial-gradient(circle, transparent 6%, rgb(111, 164, 189) 0%);
+  }
+  7% {
+    background: radial-gradient(circle, transparent 7%, rgb(111, 164, 189) 0%);
+  }
+  8% {
+    background: radial-gradient(circle, transparent 8%, rgb(111, 164, 189) 0%);
+  }
+  9% {
+    background: radial-gradient(circle, transparent 9%, rgb(111, 164, 189) 0%);
+  }
+  10% {
+    background: radial-gradient(circle, transparent 10%, rgb(111, 164, 189) 0%);
+  }
+  11% {
+    background: radial-gradient(circle, transparent 11%, rgb(111, 164, 189) 0%);
+  }
+  12% {
+    background: radial-gradient(circle, transparent 12%, rgb(111, 164, 189) 0%);
+  }
+  13% {
+    background: radial-gradient(circle, transparent 13%, rgb(111, 164, 189) 0%);
+  }
+  14% {
+    background: radial-gradient(circle, transparent 14%, rgb(111, 164, 189) 0%);
+  }
+  15% {
+    background: radial-gradient(circle, transparent 15%, rgb(111, 164, 189) 0%);
+  }
+  16% {
+    background: radial-gradient(circle, transparent 16%, rgb(111, 164, 189) 0%);
+  }
+  17% {
+    background: radial-gradient(circle, transparent 17%, rgb(111, 164, 189) 0%);
+  }
+  18% {
+    background: radial-gradient(circle, transparent 18%, rgb(111, 164, 189) 0%);
+  }
+  19% {
+    background: radial-gradient(circle, transparent 19%, rgb(111, 164, 189) 0%);
+  }
+  20% {
+    background: radial-gradient(circle, transparent 20%, rgb(111, 164, 189) 0%);
+  }
+  21% {
+    background: radial-gradient(circle, transparent 21%, rgb(111, 164, 189) 0%);
+  }
+  22% {
+    background: radial-gradient(circle, transparent 22%, rgb(111, 164, 189) 0%);
+  }
+  23% {
+    background: radial-gradient(circle, transparent 23%, rgb(111, 164, 189) 0%);
+  }
+  24% {
+    background: radial-gradient(circle, transparent 24%, rgb(111, 164, 189) 0%);
+  }
+  25% {
+    background: radial-gradient(circle, transparent 25%, rgb(111, 164, 189) 0%);
+  }
+  26% {
+    background: radial-gradient(circle, transparent 26%, rgb(111, 164, 189) 0%);
+  }
+  27% {
+    background: radial-gradient(circle, transparent 27%, rgb(111, 164, 189) 0%);
+  }
+  28% {
+    background: radial-gradient(circle, transparent 28%, rgb(111, 164, 189) 0%);
+  }
+  29% {
+    background: radial-gradient(circle, transparent 29%, rgb(111, 164, 189) 0%);
+  }
+  30% {
+    background: radial-gradient(circle, transparent 30%, rgb(111, 164, 189) 0%);
+  }
+  31% {
+    background: radial-gradient(circle, transparent 31%, rgb(111, 164, 189) 0%);
+  }
+  32% {
+    background: radial-gradient(circle, transparent 32%, rgb(111, 164, 189) 0%);
+  }
+  33% {
+    background: radial-gradient(circle, transparent 33%, rgb(111, 164, 189) 0%);
+  }
+  34% {
+    background: radial-gradient(circle, transparent 34%, rgb(111, 164, 189) 0%);
+  }
+  35% {
+    background: radial-gradient(circle, transparent 35%, rgb(111, 164, 189) 0%);
+  }
+  36% {
+    background: radial-gradient(circle, transparent 36%, rgb(111, 164, 189) 0%);
+  }
+  37% {
+    background: radial-gradient(circle, transparent 37%, rgb(111, 164, 189) 0%);
+  }
+  38% {
+    background: radial-gradient(circle, transparent 38%, rgb(111, 164, 189) 0%);
+  }
+  39% {
+    background: radial-gradient(circle, transparent 39%, rgb(111, 164, 189) 0%);
+  }
+  40% {
+    background: radial-gradient(circle, transparent 40%, rgb(111, 164, 189) 0%);
+  }
+  41% {
+    background: radial-gradient(circle, transparent 41%, rgb(111, 164, 189) 0%);
+  }
+  42% {
+    background: radial-gradient(circle, transparent 42%, rgb(111, 164, 189) 0%);
+  }
+  43% {
+    background: radial-gradient(circle, transparent 43%, rgb(111, 164, 189) 0%);
+  }
+  44% {
+    background: radial-gradient(circle, transparent 44%, rgb(111, 164, 189) 0%);
+  }
+  45% {
+    background: radial-gradient(circle, transparent 45%, rgb(111, 164, 189) 0%);
+  }
+  46% {
+    background: radial-gradient(circle, transparent 46%, rgb(111, 164, 189) 0%);
+  }
+  47% {
+    background: radial-gradient(circle, transparent 47%, rgb(111, 164, 189) 0%);
+  }
+  48% {
+    background: radial-gradient(circle, transparent 48%, rgb(111, 164, 189) 0%);
+  }
+  49% {
+    background: radial-gradient(circle, transparent 49%, rgb(111, 164, 189) 0%);
+  }
+  50% {
+    background: radial-gradient(circle, transparent 50%, rgb(111, 164, 189) 0%);
+  }
+  51% {
+    background: radial-gradient(circle, transparent 51%, rgb(111, 164, 189) 0%);
+  }
+  52% {
+    background: radial-gradient(circle, transparent 52%, rgb(111, 164, 189) 0%);
+  }
+  53% {
+    background: radial-gradient(circle, transparent 53%, rgb(111, 164, 189) 0%);
+  }
+  54% {
+    background: radial-gradient(circle, transparent 54%, rgb(111, 164, 189) 0%);
+  }
+  55% {
+    background: radial-gradient(circle, transparent 55%, rgb(111, 164, 189) 0%);
+  }
+  56% {
+    background: radial-gradient(circle, transparent 56%, rgb(111, 164, 189) 0%);
+  }
+  57% {
+    background: radial-gradient(circle, transparent 57%, rgb(111, 164, 189) 0%);
+  }
+  58% {
+    background: radial-gradient(circle, transparent 58%, rgb(111, 164, 189) 0%);
+  }
+  59% {
+    background: radial-gradient(circle, transparent 59%, rgb(111, 164, 189) 0%);
+  }
+  60% {
+    background: radial-gradient(circle, transparent 60%, rgb(111, 164, 189) 0%);
+  }
+  61% {
+    background: radial-gradient(circle, transparent 61%, rgb(111, 164, 189) 0%);
+  }
+  62% {
+    background: radial-gradient(circle, transparent 62%, rgb(111, 164, 189) 0%);
+  }
+  63% {
+    background: radial-gradient(circle, transparent 63%, rgb(111, 164, 189) 0%);
+  }
+  64% {
+    background: radial-gradient(circle, transparent 64%, rgb(111, 164, 189) 0%);
+  }
+  65% {
+    background: radial-gradient(circle, transparent 65%, rgb(111, 164, 189) 0%);
+  }
+  66% {
+    background: radial-gradient(circle, transparent 66%, rgb(111, 164, 189) 0%);
+  }
+  67% {
+    background: radial-gradient(circle, transparent 67%, rgb(111, 164, 189) 0%);
+  }
+  68% {
+    background: radial-gradient(circle, transparent 68%, rgb(111, 164, 189) 0%);
+  }
+  69% {
+    background: radial-gradient(circle, transparent 69%, rgb(111, 164, 189) 0%);
+  }
+  70% {
+    background: radial-gradient(circle, transparent 70%, rgb(111, 164, 189) 0%);
+  }
+  71% {
+    background: radial-gradient(circle, transparent 71%, rgb(111, 164, 189) 0%);
+  }
+  72% {
+    background: radial-gradient(circle, transparent 72%, rgb(111, 164, 189) 0%);
+  }
+  73% {
+    background: radial-gradient(circle, transparent 73%, rgb(111, 164, 189) 0%);
+  }
+  74% {
+    background: radial-gradient(circle, transparent 74%, rgb(111, 164, 189) 0%);
+  }
+  75% {
+    background: radial-gradient(circle, transparent 75%, rgb(111, 164, 189) 0%);
+  }
+  76% {
+    background: radial-gradient(circle, transparent 76%, rgb(111, 164, 189) 0%);
+  }
+  77% {
+    background: radial-gradient(circle, transparent 77%, rgb(111, 164, 189) 0%);
+  }
+  78% {
+    background: radial-gradient(circle, transparent 78%, rgb(111, 164, 189) 0%);
+  }
+  79% {
+    background: radial-gradient(circle, transparent 79%, rgb(111, 164, 189) 0%);
+  }
+  80% {
+    background: radial-gradient(circle, transparent 80%, rgb(111, 164, 189) 0%);
+  }
+  81% {
+    background: radial-gradient(circle, transparent 81%, rgb(111, 164, 189) 0%);
+  }
+  82% {
+    background: radial-gradient(circle, transparent 82%, rgb(111, 164, 189) 0%);
+  }
+  83% {
+    background: radial-gradient(circle, transparent 83%, rgb(111, 164, 189) 0%);
+  }
+  84% {
+    background: radial-gradient(circle, transparent 84%, rgb(111, 164, 189) 0%);
+  }
+  85% {
+    background: radial-gradient(circle, transparent 85%, rgb(111, 164, 189) 0%);
+  }
+  86% {
+    background: radial-gradient(circle, transparent 86%, rgb(111, 164, 189) 0%);
+  }
+  87% {
+    background: radial-gradient(circle, transparent 87%, rgb(111, 164, 189) 0%);
+  }
+  88% {
+    background: radial-gradient(circle, transparent 88%, rgb(111, 164, 189) 0%);
+  }
+  89% {
+    background: radial-gradient(circle, transparent 89%, rgb(111, 164, 189) 0%);
+  }
+  90% {
+    background: radial-gradient(circle, transparent 90%, rgb(111, 164, 189) 0%);
+  }
+  91% {
+    background: radial-gradient(circle, transparent 91%, rgb(111, 164, 189) 0%);
+  }
+  92% {
+    background: radial-gradient(circle, transparent 92%, rgb(111, 164, 189) 0%);
+  }
+  93% {
+    background: radial-gradient(circle, transparent 93%, rgb(111, 164, 189) 0%);
+  }
+  94% {
+    background: radial-gradient(circle, transparent 94%, rgb(111, 164, 189) 0%);
+  }
+  95% {
+    background: radial-gradient(circle, transparent 95%, rgb(111, 164, 189) 0%);
+  }
+  96% {
+    background: radial-gradient(circle, transparent 96%, rgb(111, 164, 189) 0%);
+  }
+  97% {
+    background: radial-gradient(circle, transparent 97%, rgb(111, 164, 189) 0%);
+  }
+  98% {
+    background: radial-gradient(circle, transparent 98%, rgb(111, 164, 189) 0%);
+  }
+  99% {
+    background: radial-gradient(circle, transparent 99%, rgb(111, 164, 189) 0%);
+  }
+  100% {
+    background: radial-gradient(circle, transparent 100%,rgb(111, 164, 189) 0%);
+  }
+}
+#loading > div > img {
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+display: block;
+width: 4rem;
+aspect-ratio: 1;
+animation: rotirajUnapred 20s linear reverse infinite;
+border: 4px solid white;
+border-radius: 50%;
+z-index: 999;
+}
+.parent {
+width: 4rem;
+aspect-ratio: 1;
+background-color: transparent;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear infinite;
+position: relative;
+}
+.circle {
+--size:5rem;
+--offset:8rem;
+width: var(--size);
+aspect-ratio: 1;
+border-radius: 50%;
+position: absolute;
+top: calc(var(--size) / 2);
+left: calc(var(--size) / 2);
+transform: translate(calc(cos(var(--degrees)) * var(--offset)), calc(sin(var(--degrees)) * var(--offset)));
+}
+.circle img {
+position: absolute;
+top: -3rem;
+left: -3rem;
+width: 5rem;
+aspect-ratio: 1;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear reverse infinite;
+}
+.circle:nth-of-type(1) {
+--degrees: 0 * 360deg / 8;
+}
+.circle:nth-of-type(2) {
+--degrees: 1 * 360deg / 8;
+}
+.circle:nth-of-type(3) {
+--degrees: 2 * 360deg / 8;
+}
+.circle:nth-of-type(4) {
+--degrees: 3 * 360deg / 8;
+}
+.circle:nth-of-type(5) {
+--degrees: 4 * 360deg / 8;
+}
+.circle:nth-of-type(6) {
+--degrees: 5 * 360deg / 8;
+}
+.circle:nth-of-type(7) {
+--degrees: 6 * 360deg / 8;
+}
+.circle:nth-of-type(8) {
+--degrees: 7 * 360deg / 8;
+}
+@keyframes rotirajUnapred {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(36deg);
+  }
+  20% {
+    transform: rotate(72deg);
+  }
+  30% {
+    transform: rotate(108deg);
+  }
+  40% {
+    transform: rotate(144deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  60% {
+    transform: rotate(216deg);
+  }
+  70% {
+    transform: rotate(252deg);
+  }
+  80% {
+    transform: rotate(288deg);
+  }
+  90% {
+    transform: rotate(324deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@media screen and (max-width: 360px) {
+#loading {
+background: radial-gradient(circle, rgb(120, 120, 158) 0%, rgb(120, 120, 158) 100%);
+}
+#loading > div > img {
+width: 3rem;
+aspect-ratio: 1;
+box-shadow: 0.625em 0.625em 0.625em 0.625em rgb(54, 53, 53);
+}
+.parent {
+width: 3rem;
+aspect-ratio: 1;
+}
+.circle {
+--size:3rem;
+--offset:5rem;
+width: var(--size);
+aspect-ratio: 1;
+border-radius: 50%;
+position: absolute;
+top: calc(var(--size) / 2);
+left: calc(var(--size) / 2);
+transform: translate(calc(cos(var(--degrees)) * var(--offset)), calc(sin(var(--degrees)) * var(--offset)));
+}
+.circle img {
+position: absolute;
+top: -1.7rem;
+left: -1.7rem;
+width: 3rem;
+aspect-ratio: 1;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear reverse infinite;
+}
+}
+@media screen and (min-width: 768px) {
+#loading {
+width: 100vw;
+min-height: 100vh;
+display: grid;
+overflow: hidden;
+place-items: center;
+background: radial-gradient(circle, rgb(120, 120, 158) 0%, rgb(120, 120, 158) 100%);
+animation: slider 2s linear 3s forwards;
+}
+#loading > div > img {
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+display: block;
+width: 5.5rem;
+aspect-ratio: 1;
+animation: rotirajUnapred 20s linear reverse infinite;
+border: 4px solid white;
+border-radius: 50%;
+z-index: 999;
+}
+.parent {
+width: 5.5rem;
+aspect-ratio: 1;
+background-color: transparent;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear infinite;
+position: relative;
+}
+.circle {
+--size:7rem;
+--offset:10.5rem;
+width: var(--size);
+aspect-ratio: 1;
+border-radius: 50%;
+position: absolute;
+top: calc(var(--size) / 2);
+left: calc(var(--size) / 2);
+transform: translate(calc(cos(var(--degrees)) * var(--offset)), calc(sin(var(--degrees)) * var(--offset)));
+}
+.circle img {
+position: absolute;
+top: -4.5rem;
+left: -4.5rem;
+width: 7rem;
+aspect-ratio: 1;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear reverse infinite;
+}
+}
+@media screen and (max-height: 420px) {
+#loading {
+background: radial-gradient(circle, rgb(120, 120, 158) 0%, rgb(120, 120, 158) 100%);
+}
+#loading > div > img {
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+display: block;
+width: 3rem;
+aspect-ratio: 1;
+animation: rotirajUnapred 20s linear reverse infinite;
+border: 4px solid white;
+border-radius: 50%;
+z-index: 999;
+}
+.parent {
+width: 3rem;
+aspect-ratio: 1;
+background-color: transparent;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear infinite;
+position: relative;
+}
+.circle {
+--size:3rem;
+--offset:5rem;
+width: var(--size);
+aspect-ratio: 1;
+border-radius: 50%;
+position: absolute;
+top: calc(var(--size) / 2);
+left: calc(var(--size) / 2);
+transform: translate(calc(cos(var(--degrees)) * var(--offset)), calc(sin(var(--degrees)) * var(--offset)));
+}
+.circle img {
+position: absolute;
+top: -1.7rem;
+left: -1.7rem;
+width: 3rem;
+aspect-ratio: 1;
+border-radius: 50%;
+animation: rotirajUnapred 20s linear reverse infinite;
+}
+}
